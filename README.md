@@ -1,4 +1,4 @@
-Olá, tudo bem?
+# Olá, tudo bem?
 Meu nome é Lorrayne Berçot e é um prazer te ter aqui!
 
 Estou começando meus estudos em TI e fazendo parte do Bootcamp Code Girls.
