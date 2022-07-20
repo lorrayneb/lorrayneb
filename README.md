@@ -2,6 +2,7 @@
 Meu nome é Lorrayne Berçot e é um prazer te ter aqui!
 
 Estou começando meus estudos em TI.
+
 Meu objetivo é desenvolver as habilidades necessárias para poder atuar como Product Owner, e assim, juntar duas áreas que gosto:
 Administração e TI. 
 
