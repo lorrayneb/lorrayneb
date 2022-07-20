@@ -1,4 +1,13 @@
-### Hi there 👋
+Olá, tudo bem?
+Meu nome é Lorrayne Berçot e é um prazer te ter aqui!
+
+Estou começando meus estudos em TI e fazendo parte do Bootcamp Code Girls.
+Meu objetivo é desenvolver as habilidades necessárias para poder atuar como Product Owner, e assim, juntar duas áreas que gosto:
+Administração e TI. 
+
+Fique a vontade para me acompanhar nessa jornada e observar meu crescimento!
+
+*Qualquer crítica construtiva será bem vinda.
 
 <!--
 **lorrayneb/lorrayneb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
